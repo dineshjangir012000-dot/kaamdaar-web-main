@@ -29,3 +29,8 @@ dist/
 .env.*
 !.env.example
 .DS_Store
+
+# Environment variables
+.env
+.env.*
+!.env.example
